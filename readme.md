@@ -11,7 +11,7 @@ I’ve had the privilege of working with clients across **USA, UK, and Dubai**, 
 - 🛒 Shopify Expert – Theme Customization, App Development, API Integrations  
 - ⚛️ Frontend – React.js, Next.js, Tailwind CSS  
 - 🖥️ Backend – Node.js, Express.js  
-- 🗄️ Databases – MySQL, MSSQL, MongoDB  
+- 🗄️ Databases – MySQL, MSSQL, Prisma
 - 🔗 APIs & Integrations – REST, GraphQL, Shopify Storefront & Admin APIs  
 - 🌍 Experienced in working with international clients (USA | UK | Dubai)  
 
